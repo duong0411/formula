@@ -1,0 +1,7 @@
+onnx: /home/duong0411/PycharmProjects/yolo_onnx/ONNX-YOLOv8/models/best.onnx
+size: [640,640]
+batch_szie: 16
+device: cpu
+stride: 32
+confidence_threshold: 0.5
+iou_threshold: 0.5
